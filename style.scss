@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after{
+    padding: 0;
+    margin:0;
+}
+.landing-container{
+    h1{
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    }
+
+    h3{
+        display: flex;
+        justify-content: center;
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+    a{
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+        i{
+            justify-content: center;
+        }
+    }
+
+    #contactMe{
+        display: flex;
+        justify-items: center;
+        margin: auto;
+    }
+    #imagesAndBio{
+        padding: 0;
+        display: flex;
+    }
+    
+
+}
