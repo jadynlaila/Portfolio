@@ -34,12 +34,18 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+  margin-top: 200px;
 }
 
 .landing-container a i {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  width: 80px;
+  text-align: center;
 }
 
 .landing-container #contactMe {
@@ -55,5 +61,6 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 100px;
 }
 /*# sourceMappingURL=style.css.map */

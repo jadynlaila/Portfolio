@@ -22,8 +22,12 @@
         text-decoration: none;
         display: flex;
         justify-content: center;
+        align-items: end;
+        margin-top: 200px;
         i{
             justify-content: center;
+            width: 80px;
+            text-align: center;
         }
     }
 
@@ -35,6 +39,7 @@
     #imagesAndBio{
         padding: 0;
         display: flex;
+        margin-top: 100px;
     }
     
 
