@@ -63,4 +63,12 @@
   display: flex;
   margin-top: 100px;
 }
+
+.landing-container #navBar {
+  display: none;
+}
+
+.nav-item {
+  display: hidden;
+}
 /*# sourceMappingURL=style.css.map */
